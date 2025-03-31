@@ -17,5 +17,4 @@ This repository contains a deep learning-based image retrieval system that takes
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/image-similarity-model.git
-cd image-similarity-model
+https://github.com/Kaalkiii/VisualSeachLLM.git
